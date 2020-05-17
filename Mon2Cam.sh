@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-set -o errexit
-set -o pipefail
+#set -o errexit // Problems with Ubuntu 20.04
+#set -o pipefail // Problems with Ubuntu 20.04
 set -o nounset
 
 # Variables
