@@ -1,5 +1,5 @@
 # Mon2Cam
-Fix for multi-monitor Discord screensharing
+Fix for multi-monitor Discord screensharing Ubuntu 20.04
 
 Dependencies:
 -
